@@ -1,2 +1,2 @@
-# todomvc
- TodoMVC for Vue.js,React,Backbone.js, jQuery
+# todomvc-template
+ todomvc的静态页面
